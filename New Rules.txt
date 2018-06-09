@@ -1,0 +1,4 @@
+
+1. The password cannot be more tha 10 characters.
+2. The password must have at least one upper case letter.
+3. The password must contain an integer. 
